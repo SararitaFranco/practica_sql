@@ -1,0 +1,11 @@
+-- Git 
+primer paso 
+agregar archivos al repositorio
+git add . 
+revisar el directorio 
+git status 
+confrimar archivos 
+git commit -m "se le agrega mensaje"
+subir cambios a github
+git push origin master 
+y Listo! 
