@@ -9,3 +9,6 @@ git commit -m "se le agrega mensaje"
 subir cambios a github
 git push origin master 
 y Listo! 
+Recuperar 
+git restore . recupera todo 
+git restore restaura 
